@@ -1,0 +1,19 @@
+{
+  "name": "lab-3",
+  "version": "1.0.0",
+  "description": "Realtime chat room ",
+  "main": "index.js",
+  "scripts": {
+    "start": "server.js"
+  },
+  "author": "Mohammed Mawi",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3",
+    "moment": "^2.29.1",
+    "socket.io": "^4.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}

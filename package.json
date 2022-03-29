@@ -2,9 +2,9 @@
   "name": "lab-3",
   "version": "1.0.0",
   "description": "Realtime chat room ",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "start": "server.js"
+    "start": "node server.js"
   },
   "author": "Mohammed Mawi",
   "license": "MIT",
